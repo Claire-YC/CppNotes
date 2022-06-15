@@ -8,3 +8,4 @@
 
 ### Heap
 1. Maintain heap order: Fix Up & Fix Down
+2. Implement priority queue using heap.
