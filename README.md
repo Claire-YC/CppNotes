@@ -7,6 +7,7 @@
 2. Traversal types: pre, in, post, and level order. (recursive & iterative)
 
 ### Heap
-1. Heapify: create a heap from a vector
-2. Maintain heap order: Fix Up & Fix Down
-3. Implement priority queue using heap.
+1. Heapify: create a heap from a vector.
+2. Maintain heap order: Fix Up & Fix Down.
+3. heapsort: sort a vector using heap.
+4. Implement priority queue using heap.
