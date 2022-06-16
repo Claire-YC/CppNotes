@@ -68,7 +68,8 @@ public:
         std::cout << m_Heap[1] << std::endl;
 
         // vector.back() return a reference
-        // This reference can be used to assign another variable just like the normal variable. The assigned number will not change when the original variable are chaning.
+        // This reference can be used to assign another variable just like the normal variable. 
+        // The assigned number will not change when the original variable are chaning.
         m_Heap[1] = m_Heap.back();
         m_Heap.pop_back();
         m_Heapsize--;
@@ -93,6 +94,7 @@ public:
 
 int main()
 {
+    // 这里数组给出的顺序表示的是构成heap之后的
     std::vector<int> o_vec = {81, 18, 14, 9, 7, 1, 5, 2, 4};
     PQ vec(o_vec);
     vec.push(9);
