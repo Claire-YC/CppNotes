@@ -9,7 +9,7 @@
 ### Heap
 1. Heapify: create a heap from a vector.
 2. Maintain heap order: Fix Up & Fix Down.
-3. heapsort: sort a vector using heap.
+3. heapsort: sort a vector using heap. [A]
 4. Implement priority queue using heap.
 
 
@@ -18,3 +18,8 @@
 2. Sort
    - bubble, selection, insertion
    - counting sort
+   - quick sort
+     - pivot: last item
+     - pivot: middle item
+   - merge sort
+   - heap sort [A]
