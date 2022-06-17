@@ -11,3 +11,10 @@
 2. Maintain heap order: Fix Up & Fix Down.
 3. heapsort: sort a vector using heap.
 4. Implement priority queue using heap.
+
+
+## Classic Algorithm
+1. Binary Search
+2. Sort
+   - bubble, selection, insertion
+   - counting sort
