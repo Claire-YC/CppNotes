@@ -5,6 +5,8 @@
 ## Tree
 1. Build a complete tree from a vector.
 2. Traversal types: pre, in, post, and level order. (recursive & iterative)
+3. Binary Search Tree
+   - Search, Insert, Remove, Testing
 
 ### Heap
 1. Heapify: create a heap from a vector.
